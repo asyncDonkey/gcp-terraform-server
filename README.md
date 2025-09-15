@@ -1,5 +1,3 @@
-# gcp-terraform-server
-
 # GCP Server Provisioning with Terraform
 
 This project uses Terraform to automatically provision and configure a virtual machine (VM) in Google Cloud Platform (GCP).
